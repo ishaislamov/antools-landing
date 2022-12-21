@@ -258,6 +258,12 @@ body {
     left: 90px;
   }
 
+  .card__name-active {
+    color: white;
+  }
+
+  
+
   .card__price {
     font-weight: 400;
     font-size: 18px;
@@ -266,6 +272,10 @@ body {
     position: absolute;
     top: 30px;
     left: 90px;
+  }
+
+  .card__price-active {
+    color: #FFA537;
   }
 
   .card__desc {
